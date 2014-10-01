@@ -32,7 +32,7 @@
 		<div class="col-md-4">
 		<img src="img/foreventlogo.png">
 		</div>
-		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%);">
+		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%); border: 2px solid #5cb85c;border-radius: 25px;">
 			<ul class="nav nav-pills nav-justified">
 				<li><a href="#">Pernikahan</a></li>
 				<li><a href="#">Seminar</a></li>
