@@ -17,10 +17,17 @@
 </script>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <!--end buat mini slider-->
+	<script type="text/javascript" src="js/jquery.sticky.js"></script>
+	<script>
+    $(window).load(function(){
+      $("#search-box").sticky({ topSpacing: 0, center:true, className:"search" });
+    });
+  </script>
 <head>
 <title>Forevent</title>
 </head>
-<div class="container">
+<body>
+<div class="container" >
 	<div class="row">		
 		<div class="col-md-4">
 		<img src="img/foreventlogo.png">

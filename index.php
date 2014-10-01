@@ -5,16 +5,15 @@
 	<img src="http://forevent.me/image/cache/data/foreventslide-980x280.png" style="margin-left:auto;margin-right:auto;display:block">
 	</div>
 </div>
-<br>
-<div class="row" style="margin-top:20px">
+
+<div id="search-box" class="row" style="margin-top:20px;">
 	<div class="col-md-3"></div>
 	<div class="col-md-6">
 		<div class="input-group">
 			<input type="text" class="form-control" data-toggle="tooltip" data-placement="bottom" title="Masukkan Keyword">
 			<div class="input-group-btn">
-			<button class="btn btn-default" type="button" >Cari!</button>
+				<button class="btn btn-default" type="button" >Cari!</button>
 			</div><!-- /btn-group -->
-		  
 		</div><!-- /input-group -->
 	</div>
 	<div class="col-md-3"></div>
