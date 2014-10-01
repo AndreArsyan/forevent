@@ -20,103 +20,40 @@
 	<div class="col-md-3"></div>
 </div>
 <div class="row" style="margin-top:20px">
+	
 	<div class="col-md-12">
-		<section class="pagedImages">
-			<input id="page1" accesskey="1" type="radio" name="pagedImages1" title="Images page 1" checked="checked" />
-			<input id="page2" accesskey="2" type="radio" name="pagedImages1" title="Images page 2" />
-			<input id="page3" accesskey="3" type="radio" name="pagedImages1" title="Images page 3" />
-			<label for="page1" title="To page 1">1</label>
-			<label for="page2" title="To page 2">2</label>
-			<label for="page3" title="To page 3">3</label>
-			<ul title="This is page 1">
-				<li id="image1">
-					<a href="#image1"><img alt="" src="http://placekitten.com/400/400" /></a>
-					<article>
-						<h3>Image 1</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image2">
-					<a href="#image2"><img alt="" src="http://placekitten.com/300/400" /></a>
-					<article>
-						<h3>Image 2</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-					<aside>
-						<p>You can have more than one element here and it doesn't need to be article.</p>
-					</aside>
-				</li>
-				<li id="image3">
-					<a href="#image3"><img alt="" src="http://placekitten.com/400/300" /></a>
-					<article>
-						<h3>Image 3</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image4">
-					<a href="#image4"><img alt="" src="http://placekitten.com/250/400" /></a>
-					<article>
-						<h3>Image 4</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-			</ul>
-			<ul title="This is page 2">
-				<li id="image5">
-					<a href="#image5"><img alt="" src="http://placekitten.com/400/250" /></a>
-					<article>
-						<h3>Image 5</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image6">
-					<a href="#image6"><img alt="" src="http://placekitten.com/400/200" /></a>
-					<article>
-						<h3>Image 6</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image7">
-					<a href="#image7"><img alt="" src="http://placekitten.com/200/400" /></a>
-					<article>
-						<h3>Image 7</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image8">
-					<a href="#image8"><img alt="" src="http://placekitten.com/275/400" /></a>
-					<article>
-						<h3>Image 8</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-			</ul>
-			<ul title="This is page 3">
-				<li id="image9">
-					<a href="#image9"><img alt="" src="http://placekitten.com/400/275" /></a>
-					<article>
-						<h3>Image 9</h3>
-						<p>Have here whatever you like.</p>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-				<li id="image10">
-					<a href="#image10"><img alt="" src="http://placekitten.com/350/400" /></a>
-					<article>
-						<h3>Image 10</h3>
-						<p><a href="#">Close</a></p>
-					</article>
-				</li>
-			</ul>
-		</section>
+	<h1>Featured Product</h1>
+		<div id="mi-slider" class="mi-slider">
+					<ul>
+						<li><a href="#"><img src="images/1.jpg" alt="img01"><h4>Boots</h4></a></li>
+						<li><a href="#"><img src="images/2.jpg" alt="img02"><h4>Oxfords</h4></a></li>
+						<li><a href="#"><img src="images/3.jpg" alt="img03"><h4>Loafers</h4></a></li>
+						<li><a href="#"><img src="images/4.jpg" alt="img04"><h4>Sneakers</h4></a></li>
+					</ul>
+					<ul>
+						<li><a href="#"><img src="images/5.jpg" alt="img05"><h4>Belts</h4></a></li>
+						<li><a href="#"><img src="images/6.jpg" alt="img06"><h4>Hats &amp; Caps</h4></a></li>
+						<li><a href="#"><img src="images/7.jpg" alt="img07"><h4>Sunglasses</h4></a></li>
+						<li><a href="#"><img src="images/8.jpg" alt="img08"><h4>Scarves</h4></a></li>
+					</ul>
+					<ul>
+						<li><a href="#"><img src="images/9.jpg" alt="img09"><h4>Casual</h4></a></li>
+						<li><a href="#"><img src="images/10.jpg" alt="img10"><h4>Luxury</h4></a></li>
+						<li><a href="#"><img src="images/11.jpg" alt="img11"><h4>Sport</h4></a></li>
+					</ul>
+					<ul>
+						<li><a href="#"><img src="images/12.jpg" alt="img12"><h4>Carry-Ons</h4></a></li>
+						<li><a href="#"><img src="images/13.jpg" alt="img13"><h4>Duffel Bags</h4></a></li>
+						<li><a href="#"><img src="images/14.jpg" alt="img14"><h4>Laptop Bags</h4></a></li>
+						<li><a href="#"><img src="images/15.jpg" alt="img15"><h4>Briefcases</h4></a></li>
+					</ul>
+					<nav>
+						<a href="#">Shoes</a>
+						<a href="#">Accessories</a>
+						<a href="#">Watches</a>
+						<a href="#">Bags</a>
+					</nav>
+				</div>
 	</div>
 </div>
 
