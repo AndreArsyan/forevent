@@ -20,9 +20,15 @@
 	<script type="text/javascript" src="js/jquery.sticky.js"></script>
 	<script>
     $(window).load(function(){
-      $("#search-box").sticky({ topSpacing: 0, center:true, className:"search" });
+      $("#search-box").sticky({ topSpacing: 0, center:true, className:"search-class" });
     });
   </script>
+  
+  <style>
+	.search-class{
+		width:10px;
+	}
+  </style>
 <head>
 <title>Forevent</title>
 </head>
