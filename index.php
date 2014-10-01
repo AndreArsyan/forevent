@@ -7,7 +7,9 @@
 </div>
 
 <div id="search-box" class="row" style="margin-top:20px;">
-	<div class="col-md-3"></div>
+	<div class="col-md-3">
+		<div class="left-box">kotak</div>
+	</div>
 	<div class="col-md-6">
 		<div class="input-group">
 			<input type="text" class="form-control" data-toggle="tooltip" data-placement="bottom" title="Masukkan Keyword">

@@ -329,3 +329,16 @@
 	}
 }
 
+.left-box{
+	height:100px;
+	width:100px;
+	background:green;
+	display:none;
+}
+
+
+/*layout search box - top*/
+	.search-class{
+		width:10px !important;
+	}
+/*end*/
