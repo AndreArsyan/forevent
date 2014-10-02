@@ -4,15 +4,13 @@
 <link rel="stylesheet" href="css/style-ext.css">
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
-<!--buat mmini slider-->
+<!--buat mini slider-->
 <script src="js/modernizr.custom.63321.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="js/jquery.catslider.js"></script>
 <script>
 	$(function() {
-
 		$( '#mi-slider' ).catslider();
-
 	});
 </script>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
@@ -22,7 +20,7 @@
     $(window).load(function(){
       $("#search-box").sticky({ topSpacing: 0, center:true, className:"search-class" });
     });
-  </script>
+	</script>
 <head>
 <title>Forevent</title>
 </head>
@@ -32,7 +30,7 @@
 		<div class="col-md-4">
 		<img src="img/foreventlogo.png">
 		</div>
-		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%); border: 2px solid #5cb85c;border-radius: 25px;">
+		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%);padding:0 0; border: 2px solid #5cb85c;border-radius: 10px;">
 			<ul class="nav nav-pills nav-justified">
 				<li><a href="#">Pernikahan</a></li>
 				<li><a href="#">Seminar</a></li>

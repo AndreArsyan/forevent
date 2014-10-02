@@ -21,18 +21,18 @@
 	<div class="col-md-3"></div>
 </div>
 
-<div class="row" style="margin-top:20px;">
-	<h1 style="margin-bottom:20px;">Special Promotion</h1>
+<div class="row" style="margin-top:20px;margin-left:auto;margin-right:auto">
+	<h2 style="margin-bottom:20px;">Special Promotion</h2>
 	<div class="col-md-3">
-	<img src="img/promo1.jpg" alt="promo 1" style="width:180px;height:180px" class="img-rounded">
+	<img src="img/promo1.jpg" alt="promo 1" style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
 	</div>
 	<div class="col-md-3">
-	<img src="img/promo4.png" alt="promo 4"  style="width:180px;height:180px"  class="img-rounded">
+	<img src="img/promo4.png" alt="promo 4"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
 	</div>
 	<div class="col-md-3">
-	<img src="img/promo2.gif" alt="promo 2"  style="width:180px;height:180px"  class="img-rounded">
+	<img src="img/promo2.gif" alt="promo 2"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
 	</div><div class="col-md-3">
-	<img src="img/promo3.jpg" alt="promo 3"  style="width:180px;height:180px"  class="img-rounded">
+	<img src="img/promo3.jpg" alt="promo 3"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
 	</div>
 	
 	
@@ -40,7 +40,7 @@
 
 <div class="row" style="margin-top:20px">
 	<div class="col-md-12">
-	<h1>Featured Product</h1>
+	<h2>Featured Product</h2>
 		<div id="mi-slider" class="mi-slider">
 			<ul>
 				<li><a href="#"><img src="images/1.jpg" alt="img01"><h4>Boots</h4></a></li>
