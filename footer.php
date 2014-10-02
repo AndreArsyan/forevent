@@ -2,18 +2,19 @@
 	<div class="col-md-3">
 		<h3>Apa itu Forevent?</h3>
 		<p>
-		Forevent adalah toko online yang menjual berbagai kebutuhan aksesoris dan merchandise untuk event.
+		Forevent adalah toko online yang menjual berbagai souvenir dan merchandise untuk event.
 		</p>
 	</div>
 	<div class="col-md-3">
 		<h3>Hubungi Kami</h3>
-		<p>
-		SMS / Telepon : 08978124479<br>
-		WhatsApp : 08978124479<br>
-		BBM : 747D3529<br>
-		Alamat : <br>
-		Gedung Usmar Ismail, Kuningan,<br> Jakarta Selatan
-		</p>
+		<address>
+			<strong>Forevent Indonesia</strong><br>
+			Gedung Usmar Ismail<br>
+			Kuningan, Jakarta Selatan 12940<br>
+			<abbr title="SMS / Telepon">SMS</abbr> : 08978124479<br>
+			<abbr title="Whatsapp">WA</abbr> : 08978124479<br>
+			<abbr title="Blackberry Messenger">BBM</abbr> : 747D3529
+		</address>
 	</div>
 	<div class="col-md-3">
 		<h3>Bantuan</h3>
