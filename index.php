@@ -1,47 +1,43 @@
 <?php include "header.php"?>
-<div class="row" style="margin-top:20px">
+<div class="row">
 	<div class="col-md-12" style="margin:auto">
 		<!--masukin slider-->
-		<img src="http://forevent.me/image/cache/data/foreventslide-980x280.png" style="margin-left:auto;margin-right:auto;display:block">
+		<div class="jumbotron" style="background:white">
+			<img src="http://forevent.me/image/cache/data/foreventslide-980x280.png" class="img-responsive" style="margin-left:auto;margin-right:auto;display:block">
+		</div>
 	</div>
 </div>
-
-<div id="search-box" class="row" style="margin-top:20px;">
-	<div class="col-md-3">
-		<div class="left-box">kotak</div>
-	</div>
-	<div class="col-md-6">
-		<div class="input-group">
+<!--
+<div id="search-box" class="row">
+	<div class="col-md-12">
+		<div class="input-group" style="margin-left:auto;margin-right:auto">
 			<input type="text" class="form-control" data-toggle="tooltip" data-placement="bottom" title="Masukkan Keyword">
 			<div class="input-group-btn">
 				<button class="btn btn-default" type="button" >Cari!</button>
-			</div><!-- /btn-group -->
-		</div><!-- /input-group -->
+			</div>
+		</div>
 	</div>
-	<div class="col-md-3"></div>
+</div>-->
+
+<div class="row" style="margin-left:auto;margin-right:auto">
+	<!--<h2 style="margin-bottom:20px;">Special Promotion</h2>-->
+	<div class="col-md-4"style="height:150px;border: solid grey 1px;">
+	promo
+		<!--<img src="img/promo4.png" alt="promo 1" style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">-->
+	</div>
+	<div class="col-md-4"style="height:150px;border: solid grey 1px;">
+	info
+		<!--<img src="img/penjualterpercaya.jpg" alt="promo 4"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">-->
+	</div>
+	<div class="col-md-4"style="height:150px;border: solid grey 1px;">
+	info
+		<!--<img src="img/jaminankepuasan.gif" alt="promo 2"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">-->
+	</div>	
 </div>
 
-<div class="row" style="margin-top:20px;margin-left:auto;margin-right:auto">
-	<h2 style="margin-bottom:20px;">Special Promotion</h2>
-	<div class="col-md-3">
-		<img src="img/promo1.jpg" alt="promo 1" style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
-	</div>
-	<div class="col-md-3">
-		<img src="img/promo4.png" alt="promo 4"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
-	</div>
-	<div class="col-md-3">
-		<img src="img/promo2.gif" alt="promo 2"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
-	</div>
-	<div class="col-md-3">
-		<img src="img/promo3.jpg" alt="promo 3"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
-	</div>
-	
-	
-</div>
-
-<div class="row" style="margin-top:20px">
+<div class="row" >
 	<div class="col-md-12">
-	<h2>Featured Product</h2>
+	<h2>Best Seller</h2>
 		<div id="mi-slider" class="mi-slider">
 			<ul>
 				<li><a href="#"><img src="images/1.jpg" alt="img01"><h4>Boots</h4></a></li>
@@ -67,14 +63,18 @@
 				<li><a href="#"><img src="images/15.jpg" alt="img15"><h4>Briefcases</h4></a></li>
 			</ul>
 			<nav>
-				<a href="#">Shoes</a>
-				<a href="#">Accessories</a>
-				<a href="#">Watches</a>
-				<a href="#">Bags</a>
+				<a href="#">Pernikahan</a>
+				<a href="#">Seminar</a>
+				<a href="#">Konser</a>
+				<a href="#">Organisasi</a>
 			</nav>
 		</div>
 	</div>
 </div>
+
+
+
+
 
 
 

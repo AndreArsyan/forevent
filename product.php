@@ -130,7 +130,7 @@
 		</div>
 	</div>
 	<div class="col-md-3">
-		<button class="btn btn-info btn-block" data-toggle="modal" data-target=".bs-example-modal-lg"><h4>Pemesanan</h4></button>
+		<button class="btn btn-info btn-block" data-toggle="modal" data-target=".bs-example-modal-lg"><h4>Pesan Disini <span class="glyphicon glyphicon-shopping-cart"></span></h4></button>
 		<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
 			<div class="modal-dialog modal-lg">
 				<div class="modal-content">

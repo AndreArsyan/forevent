@@ -24,18 +24,36 @@
 <head>
 <title>Forevent</title>
 </head>
-<body>
-<div class="container" >
-	<div class="row">		
-		<div class="col-md-4">
-		<a href="/forevent"><img src="img/foreventlogo.png"></a>
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="background:white">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		</button>
+		<a href="/forevent" class="navbar-brand" ><img src="img/foreventlogo.png" style="height:auto;max-width:100px; margin-top: -7px;"></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		<form class="navbar-form navbar-right" role="search">
+		<div class="form-group">
+		<input type="text" class="form-control" placeholder="Cari produk disini ...">
 		</div>
-		<div class="col-md-8"  style="position: relative; top: 50%;transform: translateY(50%);">
-			<ul class="nav nav-pills nav-justified" style=" border: 2px solid #5cb85c;border-radius: 10px;">
-				<li><a href="product.php">Pernikahan</a></li>
-				<li><a href="search.php">Seminar</a></li>
-				<li><a href="#">Konser</a></li>
-				<li><a href="#">Organisasi</a></li>
-			</ul>
-		</div>		
-	</div>
+		<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+		</form>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="product.php">Pernikahan</a></li>
+			<li><a href="search.php">Seminar</a></li>
+			<li><a href="#">Konser</a></li>
+			<li><a href="#">Organisasi</a></li>
+		</ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<body style="padding-top: 50px;">
+
+<div class="container" >		
