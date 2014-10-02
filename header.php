@@ -30,9 +30,9 @@
 		<div class="col-md-4">
 		<img src="img/foreventlogo.png">
 		</div>
-		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%);padding:0 0; border: 2px solid #5cb85c;border-radius: 10px;">
-			<ul class="nav nav-pills nav-justified">
-				<li><a href="#">Pernikahan</a></li>
+		<div class="col-md-8"  style="float:right;position: relative; top: 50%;transform: translateY(50%);">
+			<ul class="nav nav-pills nav-justified" style=" border: 2px solid #5cb85c;border-radius: 10px;">
+				<li><a href="product.php">Pernikahan</a></li>
 				<li><a href="#">Seminar</a></li>
 				<li><a href="#">Konser</a></li>
 				<li><a href="#">Organisasi</a></li>

@@ -1,8 +1,8 @@
 <?php include "header.php"?>
 <div class="row" style="margin-top:20px">
 	<div class="col-md-12" style="margin:auto">
-	<!--masukin slider-->
-	<img src="http://forevent.me/image/cache/data/foreventslide-980x280.png" style="margin-left:auto;margin-right:auto;display:block">
+		<!--masukin slider-->
+		<img src="http://forevent.me/image/cache/data/foreventslide-980x280.png" style="margin-left:auto;margin-right:auto;display:block">
 	</div>
 </div>
 
@@ -24,15 +24,16 @@
 <div class="row" style="margin-top:20px;margin-left:auto;margin-right:auto">
 	<h2 style="margin-bottom:20px;">Special Promotion</h2>
 	<div class="col-md-3">
-	<img src="img/promo1.jpg" alt="promo 1" style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
+		<img src="img/promo1.jpg" alt="promo 1" style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
 	</div>
 	<div class="col-md-3">
-	<img src="img/promo4.png" alt="promo 4"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
+		<img src="img/promo4.png" alt="promo 4"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block" class="img-rounded">
 	</div>
 	<div class="col-md-3">
-	<img src="img/promo2.gif" alt="promo 2"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
-	</div><div class="col-md-3">
-	<img src="img/promo3.jpg" alt="promo 3"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
+		<img src="img/promo2.gif" alt="promo 2"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
+	</div>
+	<div class="col-md-3">
+		<img src="img/promo3.jpg" alt="promo 3"  style="width:180px;height:180px;margin-left:auto;margin-right:auto;display:block"  class="img-rounded">
 	</div>
 	
 	
