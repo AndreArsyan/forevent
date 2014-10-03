@@ -63,8 +63,8 @@
 
 .mi-slider ul li h4 {
 	display: inline-block;
-	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-	font-style: italic;
+	font-family: Segoe UI, Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	/* font-style: italic; */
 	font-weight: 400;
 	font-size: 18px;
 	padding: 20px 10px 0;
@@ -80,7 +80,7 @@
 	text-align: center;
 	max-width: 800px;
 	margin: 0 auto;
-	border-top: 5px solid #333;
+	border-top: 5px solid #5cb85c;
 }
 
 .no-js nav {
@@ -101,7 +101,7 @@
 
 .mi-slider nav a:hover,
 .mi-slider nav a.mi-selected {
-	color: #000;
+	color: #5cb85c;
 }
 
 .mi-slider nav a.mi-selected:after,
@@ -126,7 +126,7 @@
 
 .mi-slider nav a.mi-selected:before {
 	border-color: transparent;
-	border-top-color: #333;
+	border-top-color: #5cb85c;
 	border-width: 27px;
 	left: 50%;
 	margin-left: -27px;
