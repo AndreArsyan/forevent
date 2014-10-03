@@ -46,10 +46,34 @@
 		<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
 		</form>
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="product.php">Pernikahan</a></li>
-			<li><a href="search.php">Seminar</a></li>
-			<li><a href="#">Konser</a></li>
-			<li><a href="#">Organisasi</a></li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pernikahan<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="product.php">Produk</a></li>
+					<li><a href="search.php">Search</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Seminar<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="product.php">Produk</a></li>
+					<li><a href="search.php">Search</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Konser<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="product.php">Produk</a></li>
+					<li><a href="search.php">Search</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Organisasi<span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="product.php">Produk</a></li>
+					<li><a href="search.php">Search</a></li>
+				<ul>
+			</li>
 		</ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

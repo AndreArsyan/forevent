@@ -18,6 +18,8 @@
 	</div>
 	<div class="col-md-3">
 		<h3>Bantuan</h3>
+		<a href="">Cara Pemesanan</a><br>
+		<a href="">Cara Konfirmasi Pembayaran</a>
 	</div>
 	<div class="col-md-3">
 		<h3>Social Media</h3>
