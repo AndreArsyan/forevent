@@ -37,7 +37,7 @@
 
 <div class="row" >
 	<div class="col-md-12">
-	<h2>Best Seller</h2>
+	<!--<h2>Best Seller</h2>-->
 		<div id="mi-slider" class="mi-slider">
 			<ul>
 				<li><a href="#"><img src="images/1.jpg" alt="img01"><h4>Boots</h4></a></li>
@@ -72,6 +72,68 @@
 	</div>
 </div>
 
+<div class="row" style="margin-left:auto;margin-right:auto">
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+	<div class="col-md-3"style="height:150px">
+		<a href="#" class="thumbnail">
+		  <img alt="..." style="height:125px;width:100%">
+		</a>
+	</div>
+</div>
 
 
 
