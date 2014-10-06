@@ -18,61 +18,13 @@
 	</div>
 	<div class="col-md-3">
 		<h3>Bantuan</h3>
-		<button class="btn btn-block btn-info" data-toggle="modal" data-target=".bs-example-modal-lg">Cara Pemesanan</button>
-		<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-			<div class="modal-dialog modal-lg">
-				<div class="modal-content">
-					<div class="modal-header">
-						Cara Pemesanan
-					</div>
-					<div class="modal-body">
-						<ol>
-							<li>Ketik SMS dengan format<br>
-							<pre>Kode_Produk&lt;spasi&gt;Jumlah_pesanan&lt;spasi&gt;Kustomisasi(jika ada)&lt;spasi&gt;Nama&lt;spasi&gt;Alamat_Pengiriman</pre>
-							Contoh :
-							<code>ASB01 250 Bungkus plastik Andre Jl.Pedurenan Residence</code>
-							</li>
-							<li>Kirim ke <b>08978124479</b></li>
-							<li>Tunggu konfirmasi dari kami mengenai harga total (ditambah ongkir)</li>
-							<li>Kemudian anda dapat melakukan pembayaran ke :
-							<br>
-								<div class="media">
-									<a class="pull-left" href="#">
-										<img class="media-object" src="img/logo-mandiri.png" alt="..." style="width:64px;height:64px;margin-left:auto;margin-right:auto;display:block">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Bank Mandiri</h4>
-										No rek. <b>1234567890</b>
-										Atas Nama <b>Andre Arsyan Jordie</b>
-									</div>
-								</div>
-								<div class="media">
-									<a class="pull-left" href="#">
-										<img class="media-object" src="img/logo-bca.jpg" alt="..." style="width:64px;height:64px;margin-left:auto;margin-right:auto;display:block">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Bank BCA</h4>
-										No rek. <b>1234567890</b>
-										Atas Nama <b>Andre Arsyan Jordie</b>
-									</div>
-								</div>
-							</li>
-							<li>Konfirmasi pembayaran anda</li>
-							<li>Setelah kami menerima konfirmasi, proses produksi barang akan kami mulai</li>
-							<li>Kami akan memberikan informasi apabila barang telah selesai dan pengiriman barang mulai dilakukan</li>
-						</ol>
-					</div>
-					<div class="modal-footer">
-						<button type="button" class="btn btn-primary" data-dismiss="modal">Tutup</button>
-					</div>
-				</div>
-			</div>
-		</div>
+		<a href="">Cara Pemesanan</a><br>
+		<a href="">Cara Konfirmasi Pembayaran</a>
 	</div>
 	<div class="col-md-3">
 		<h3>Social Media</h3>
 	</div>
-</div><!--div row-->
+</div>
 <br>
 </div><!-- ini div container-->
 </body>

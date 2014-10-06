@@ -40,10 +40,10 @@
 	<!--<h2>Best Seller</h2>-->
 		<div id="mi-slider" class="mi-slider">
 			<ul>
-				<li><a href="#"><img src="images/1.jpg" alt="img01"><h4>Boots</h4></a></li>
-				<li><a href="#"><img src="images/2.jpg" alt="img02"><h4>Oxfords</h4></a></li>
-				<li><a href="#"><img src="images/3.jpg" alt="img03"><h4>Loafers</h4></a></li>
-				<li><a href="#"><img src="images/4.jpg" alt="img04"><h4>Sneakers</h4></a></li>
+				<li><a href="#"><img src="images/Kipas/1.png" alt="img01"><h4>Kipas 1</h4></a></li>
+				<li><a href="#"><img src="images/Kipas/2.png" alt="img02"><h4>Kipas 2</h4></a></li>
+				<li><a href="#"><img src="images/Kipas/3.png" alt="img03"><h4>Kipas 3</h4></a></li>
+				<li><a href="#"><img src="images/Kipas/4.png" alt="img04"><h4>Kipas 4</h4></a></li>
 			</ul>
 			<ul>
 				<li><a href="#"><img src="images/5.jpg" alt="img05"><h4>Belts</h4></a></li>
