@@ -6,7 +6,7 @@
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <!--buat mini slider-->
 <script src="js/modernizr.custom.63321.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>-->
 <script src="js/jquery.catslider.js"></script>
 <script>
 	$(function() {
